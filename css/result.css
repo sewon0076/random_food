@@ -1,0 +1,26 @@
+main#result{
+    background-color: #fefefe;
+}
+#result h1{
+    color:#F4644C;
+}
+#result .btn h5{
+    color:#F7F97B;
+}
+p.cate{
+    color:#75B5EA;
+    margin-bottom: -15px;
+    font-weight: 400;
+}
+.back_btn{
+    position: absolute;
+    top:50px;
+    left:50px;
+}
+.back_btn>a{
+    width:45px;
+    display: block;
+}
+.back_btn img{
+    width:100%;
+}

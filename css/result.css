@@ -1,26 +1,27 @@
-main#result{
+main#result {
     background-color: #fefefe;
+    cursor: none;
 }
-#result h1{
-    color:#F4644C;
+#result h1 {
+    color: #f4644c;
 }
-#result .btn h5{
-    color:#F7F97B;
+#result .btn h5 {
+    color: #f7f97b;
 }
-p.cate{
-    color:#75B5EA;
+p.cate {
+    color: #75b5ea;
     margin-bottom: -15px;
     font-weight: 400;
 }
-.back_btn{
+.back_btn {
     position: absolute;
-    top:50px;
-    left:50px;
+    top: 50px;
+    left: 50px;
 }
-.back_btn>a{
-    width:45px;
+.back_btn > a {
+    width: 45px;
     display: block;
 }
-.back_btn img{
-    width:100%;
+.back_btn img {
+    width: 100%;
 }
